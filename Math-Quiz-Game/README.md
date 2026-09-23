@@ -33,6 +33,14 @@ A console-based math quiz game developed with C++. The program generates random 
 3. Replace the generated source code with the contents of `main.cpp`.
 4. Build and run the project.
 
+## Screenshots
+
+### Quiz Question
+
+<img width="1490" height="550" alt="quiz-question" src="https://github.com/user-attachments/assets/4f63fa52-f224-43bc-be22-11373ec2c5b1" />
+### Final Results
+
+<img width="1472" height="290" alt="quiz-result" src="https://github.com/user-attachments/assets/af09506c-e5c8-42c2-b763-1466ed182a60" />
 > The clear-screen command is designed for Windows.
 
 ## Technology
