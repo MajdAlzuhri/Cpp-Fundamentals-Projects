@@ -30,6 +30,16 @@ A simple console-based Rock Paper Scissors game built with C++. The player compe
 3. Replace the generated source code with the contents of `main.cpp`.
 4. Build and run the project.
 
+## Screenshots
+
+### Gameplay
+
+<img width="1481" height="751" alt="gameplay" src="https://github.com/user-attachments/assets/b55cb30e-fd9e-40b1-bccd-9ba0cf4d3cdd" />
+### Final Results
+
+<img width="1485" height="757" alt="game-result" src="https://github.com/user-attachments/assets/3d50faa4-3f0f-428c-be4b-5efa71756b2d" />
+   
+
 > The console color and clear-screen commands are designed for Windows.
 
 ## Technology
